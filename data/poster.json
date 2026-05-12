@@ -1,0 +1,101 @@
+{
+  "ariaLabel": "Póster informativo sobre prevención del acoso",
+  "signsLabel": "Señalización del póster",
+  "headerBlocks": [
+    {
+      "variant": "exclamation",
+      "tag": "div",
+      "textTag": "span",
+      "textVariant": "exclamation",
+      "text": "¡"
+    },
+    {
+      "variant": "brand-blue",
+      "tag": "div",
+      "textTag": "h1",
+      "textVariant": "brand-blue",
+      "text": "LA SEDE"
+    },
+    {
+      "variant": "brand-white",
+      "tag": "div",
+      "textTag": "span",
+      "textVariant": "brand-white",
+      "text": "TE"
+    },
+    {
+      "variant": "brand-purple",
+      "tag": "div",
+      "textTag": "h1",
+      "textVariant": "brand-purple",
+      "text": "ACOMPAÑA"
+    },
+    {
+      "variant": "accent-blue",
+      "tag": "div",
+      "textTag": "span",
+      "textVariant": "accent-blue",
+      "text": "!"
+    }
+  ],
+  "body": {
+    "lead": "El respeto no se negocia",
+    "claim": "¡Pará ya de acosar!",
+    "helper": "Escanea el qr para más información",
+    "qr": {
+      "src": "./images/qr-no-acoso.png",
+      "alt": "Código QR con información de prevención del acoso"
+    },
+    "artwork": {
+      "src": "./images/no-acoso.png",
+      "alt": "Dos estudiantes con la palma levantada en señal de alto"
+    },
+    "signature": ""
+  },
+  "signs": [
+    {
+      "text": "Aulas 5, 6, 7",
+      "arrow": {
+        "src": "./images/flecha.png",
+        "alt": "Flecha hacia abajo"
+      },
+      "isTerminal": false
+    },
+    {
+      "text": "Apoyo Informático",
+      "arrow": {
+        "src": "./images/flecha.png",
+        "alt": "Flecha hacia abajo"
+      },
+      "isTerminal": false
+    },
+    {
+      "text": "Servidores",
+      "arrow": {
+        "src": "./images/flecha.png",
+        "alt": "Flecha hacia abajo"
+      },
+      "isTerminal": false
+    },
+    {
+      "text": "Laboratorios 1 y 2",
+      "arrow": {
+        "src": "./images/flecha.png",
+        "alt": "Flecha hacia abajo"
+      },
+      "isTerminal": false
+    },
+    {
+      "text": "Coordinación Informática Empresarial",
+      "arrow": {
+        "src": "./images/flecha.png",
+        "alt": "Flecha hacia abajo"
+      },
+      "isTerminal": false
+    },
+    {
+      "badge": "UCR",
+      "isTerminal": true
+    }
+  ]
+}
